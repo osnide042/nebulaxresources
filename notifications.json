@@ -1,5 +1,5 @@
 {
-  "id": "update_v5_0_1",
-  "title": "Version 5.0.1",
-  "message": "Welcome to PlayerSeek!\\n\\n• Fixed x not being visible\\n• Fixed render issue with the notification tab\\n• Fixed the x not working"
+  "id": "update_v5_0_4",
+  "title": "Version 5.0.4",
+  "message": "Welcome to PlayerSeek!\\n\\n• Added Big Picture Mode\\n• Added RGB Mode\\n• Fixed Mod Cards not loading."
 }
